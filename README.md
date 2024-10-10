@@ -1,4 +1,6 @@
 Assignment 4: CSS and responsive layouts
+
+
 Purpose: In this assignment, you will practice the CSS rules and instructions seen in class. You will have the opportunity to convert your work from previous assignments into a full-fledged, responsive website. By doing this without the help of any framework, you will be able to understand the underlying principles of how layouts work and how to tweak them to your will - which should be a great reference for any future work.
 
 Task: The Vallejo Public Library has been very happy with your work: the sitemap and mockups look great, and they have authorized you to work on the actual website.
